@@ -1,14 +1,14 @@
-# 👋 Hi, I’m Gilson Cruz da Silva
+# 👋🏾 Hi, I’m Gilson Cruz da Silva
 - 👀 I’m interested in digital solutions for envionmental area.
 - 💞️ I’m looking to collaborate on creating solutions for climate change early warnings evaluation and digital environmental impact assessment.
-- 📫 You can reach me in my email gilsoncruz10@gmail.com.
+- 📫 You can reach me in my email gilson.silva@ihc.com.br.
 
 - Find more about me bellow:
 
 
 # 🧪 Cientista e Desenvolvedor  
 
-👋 Sou **Doutor em Química Analítica**, pesquisador especialista em análises ambientais e desenvolvedor apaixonado por **tecnologia**, **ciência** e **big data**. Atualmente, estou focado em criar aplicações complexas em **Python** usando o framework **Django**, explorando soluções para **dados em larga escala**.  
+👋🏾 Sou **Doutor em Química Analítica**, pesquisador especialista em análises ambientais e desenvolvedor apaixonado por **tecnologia**, **ciência** e **big data**. Atualmente, estou focado em criar aplicações complexas em **Python** usando o framework **Django**, explorando soluções para **dados em larga escala**.  
 
 ## 🛠️ **Áreas de Interesse**  
 - 💻 **Desenvolvimento Backend:** Django, Flask  
@@ -20,9 +20,9 @@
 - 🔗 [**Envibase**](#) – Plataforma de armazenamento e streaming de dados ambientais.  
 
 ## 📫 **Como me encontrar**  
-- 🌐 **LinkedIn:** [gilson-cruz-da-silva](#)  
+- 🌐 **LinkedIn:** [gilson-cruz-da-silva](https://www.linkedin.com/in/gilson-cruz-da-silva)  
 - 📧 **Email:** gilson.silva@ihc.com.br  
-- 🌍 **Site pessoal:** [ihc.com.br](#)  
+- 🌍 **Site:** [ihc.com.br](https://www.ihc.com.br)  
 
 🚀 _"Integrando ciência e tecnologia para transformar ideias em realidade!"_
 
